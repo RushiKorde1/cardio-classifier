@@ -1,6 +1,8 @@
+BITS Pilani WILP, M.Tech Artificial Intelligence & Machine Learning
 # Cardiovascular Disease Risk Classifier
-
-ML Assignment 2 — BITS Pilani WILP, M.Tech (AIML/DSE), Machine Learning
+Student Name: Rushikesh Sanjay Korde
+Bits id: 2025ac05434
+ML Assignment 2 
 
 ## a. Problem Statement
 
