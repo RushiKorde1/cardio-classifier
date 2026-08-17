@@ -1,4 +1,6 @@
-BITS Pilani WILP, M.Tech Artificial Intelligence & Machine Learning
+  ML Assignment 2 
+  BITS Pilani WILP, M.Tech Artificial Intelligence & Machine Learning
+  
 # Cardiovascular Disease Risk Classifier
 Student Name: Rushikesh Sanjay Korde
 Bits id: 2025ac05434
@@ -17,7 +19,7 @@ patient data without touching code.
 
 ## b. Dataset Description
 
-- **Source:** [Cardiovascular Disease dataset, Kaggle](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset) (`cardio_train.csv`)
+- **Source:** [Cardiovascular Disease dataset, Kaggle](https://www.kaggle.com/code/manarmohamed24/cardiovascular-disease) (`cardio_train.csv`)
 - **Raw size:** 70,000 rows, 11 predictive features + `id` + target
 - **After cleaning:** 68,654 rows (1,346 rows dropped — 1.9% — for physiologically
   impossible values: negative/extreme blood pressure, `ap_hi < ap_lo`, and
@@ -33,7 +35,7 @@ patient data without touching code.
 
 ## c. GitHub Repository Link
 
-`<PASTE YOUR GITHUB REPO URL HERE AFTER YOU PUSH>`
+`<[PASTE YOUR GITHUB REPO URL HERE AFTER YOU PUSH](https://github.com/RushiKorde1/cardio-classifier)>`
 
 ## d. Models Used
 
