@@ -117,4 +117,4 @@ streamlit run app.py
 
 ## Live App
 
-`<PASTE YOUR STREAMLIT COMMUNITY CLOUD URL HERE AFTER DEPLOYING>`
+`<https://cardio-classifiergit-kphcmblhkd4tclh4kr7vhk.streamlit.app/>`
