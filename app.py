@@ -60,7 +60,7 @@ div[data-testid="stMetricLabel"] { color: #8FA6AA; }
     </svg>
     <div>
         <p class="ecg-title">Cardiovascular Risk Classifier</p>
-        <p class="ecg-sub">6 models trained on 68,654 patient records · cardio_train.csv (Kaggle)</p>
+        <p class="ecg-sub">5 models trained on 68,654 patient records · cardio_train.csv (Kaggle)</p>
     </div>
 </div>
 """, unsafe_allow_html=True)
